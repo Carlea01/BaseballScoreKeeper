@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Baseball Score Keeper</string>
+    <string name="TeamA">Team A</string>
+    <string name="TeamB">Team B</string>
+    <string name="_1_run">+1 RUN</string>
+    <string name="_1_hit">+1 HIT</string>
+    <string name="reset">RESET</string>
+    <string name="scoreTeamA">0</string>
+    <string name="scoreTeamB">0</string>
+    <string name="hitTeamA">0</string>
+    <string name="hitTeamB">0</string>
+
+</resources>
